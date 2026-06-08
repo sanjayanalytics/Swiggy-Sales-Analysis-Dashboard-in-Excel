@@ -109,21 +109,6 @@ The objective of this project is to analyze sales performance, customer ratings,
 
 ---
 
-## 📂 Project Structure
-
-```text
-Swiggy-Sales-Analysis-Dashboard/
-│
-├── Dashboard.xlsx
-├── README.md
-├── Images/
-│   └── Dashboard_Screenshot.png
-└── Dataset/
-    └── Swiggy_Sales_Data.xlsx
-```
-
----
-
 ## 🚀 How to Use
 
 1. Download the Excel workbook.
