@@ -10,9 +10,12 @@ The objective of this project is to analyze sales performance, customer ratings,
 
 ## 📷 Dashboard Preview
 
-*Interactive Swiggy Sales Analysis Dashboard built in Microsoft Excel*
+<p align="center">
+  <img src="https://github.com/sanjayanalytics/Swiggy-Sales-Analysis-Dashboard-in-Excel/blob/789f4948b7fbbce15cb873dc191f835f0e6f3667/Swiggy%20Sales%20Analysis%20Dashboard%20in%20Excel20%final.png" width="900">
+</p>
 
 ---
+
 ## 🎯 Key Business Objectives
 
 * Analyze overall sales performance.
