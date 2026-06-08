@@ -109,38 +109,7 @@ The objective of this project is to analyze sales performance, customer ratings,
 
 ---
 
-## 🚀 How to Use
 
-1. Download the Excel workbook.
-2. Open it in Microsoft Excel (2016 or later recommended).
-3. Navigate through different sections using the dashboard buttons.
-4. Use slicers to filter data by:
-
-   * Food Type
-   * Month
-   * State
-5. Explore sales trends, restaurant performance, and customer insights interactively.
-
----
-
-
-
-## 💡 Skills Demonstrated
-
-* Data Cleaning
-* Data Visualization
-* Dashboard Development
-* Business Intelligence
-* KPI Design
-* Pivot Table Analysis
-* Interactive Reporting
-* Excel Automation Techniques
-
----
-
-## 👨‍💻 Author
-
-**Sanjay Kumar Thakur**
 
 If you found this project useful, feel free to ⭐ the repository and connect with me on GitHub.
 
