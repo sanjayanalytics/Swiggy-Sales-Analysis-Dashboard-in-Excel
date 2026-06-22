@@ -8,14 +8,6 @@ The objective of this project is to analyze sales performance, customer ratings,
 
 ---
 
-## 📷 Dashboard Preview
-
-<p align="center">
-  <img src="https://github.com/sanjayanalytics/Swiggy-Sales-Analysis-Dashboard-in-Excel/blob/5585df367dfcee5280cb60e8b3af5398b364bc68/Swiggy%20Sales%20Analysis%20Dashboard%20in%20Excel%20Final.png" width="900">
-</p>
-
----
-
 ## 🎯 Key Business Objectives
 
 * Analyze overall sales performance.
@@ -25,6 +17,35 @@ The objective of this project is to analyze sales performance, customer ratings,
 * Understand food category preferences (Veg vs Non-Veg).
 * Examine monthly and daily sales trends.
 * Enable interactive analysis using slicers and navigation buttons.
+
+---
+
+## 🛠️ Tools & Techniques Used
+
+### Microsoft Excel
+
+* Pivot Tables
+* Pivot Charts
+* Slicers
+* Custom Number Formatting
+* Conditional Formatting
+* Shape-Based Navigation Buttons
+* Dashboard Design & Layout
+
+### Data Analysis Techniques
+
+* Sales Analysis
+* Trend Analysis
+* Geographic Analysis
+* Restaurant Performance Analysis
+* Customer Rating Analysis
+
+---
+## 📷 Dashboard Preview
+
+<p align="center">
+  <img src="https://github.com/sanjayanalytics/Swiggy-Sales-Analysis-Dashboard-in-Excel/blob/5585df367dfcee5280cb60e8b3af5398b364bc68/Swiggy%20Sales%20Analysis%20Dashboard%20in%20Excel%20Final.png" width="900">
+</p>
 
 ---
 
@@ -56,28 +77,6 @@ The objective of this project is to analyze sales performance, customer ratings,
 * Dashboard Navigation Buttons
 * Dynamic Pivot Tables & Pivot Charts
 * Slicers for instant filtering
-
----
-
-## 🛠️ Tools & Techniques Used
-
-### Microsoft Excel
-
-* Pivot Tables
-* Pivot Charts
-* Slicers
-* Custom Number Formatting
-* Conditional Formatting
-* Shape-Based Navigation Buttons
-* Dashboard Design & Layout
-
-### Data Analysis Techniques
-
-* Sales Analysis
-* Trend Analysis
-* Geographic Analysis
-* Restaurant Performance Analysis
-* Customer Rating Analysis
 
 ---
 
